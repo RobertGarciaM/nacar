@@ -16,42 +16,9 @@ export default function Home() {
 
   return (
     <main className="bg-ritual-cream text-espresso">
-      <section id="home"
-        className="
-    min-h-[100svh]
-    overflow-visible
-    bg-ritual-cream
-    px-6
-    pt-28
-    pb-5
-    md:px-12
-    md:pt-32
-    md:pb-6
-    flex
-    flex-col
-    [@media(min-height:820px)]:h-[100svh]
-    [@media(min-height:820px)]:overflow-hidden
-  "
-      >
+      <section id="home" className="min-h-auto md:min-h-[100svh] overflow-visible bg-ritual-cream px-6 pt-28 pb-5 md:px-12 md:pt-32 md:pb-6 flex flex-col" >
         {/* HERO */}
-        <div
-          className="
-      relative
-      mx-auto
-      flex
-      w-full
-      max-w-6xl
-      flex-1
-      items-center
-      overflow-hidden
-      px-2
-      py-4
-      md:px-0
-      md:py-6
-      [@media(max-height:819px)]:items-start
-      [@media(max-height:819px)]:flex-none
-    "
-        >
+        <div className="relative mx-auto flex w-full max-w-6xl flex-none md:flex-1 items-start md:items-center overflow-hidden px-2 pt-10 pb-12 md:px-0 md:py-6">
           {/* ATMOSPHERIC BACKGROUND */}
           <div className="absolute inset-0 pointer-events-none overflow-hidden">
 
@@ -65,7 +32,7 @@ export default function Home() {
             </div>
 
             {/* NOISE */}
-            <div className="absolute right-[-18%] top-[14%] h-[72%] w-[108%] opacity-[0.025] mix-blend-multiply bg-[url('/noise.png')] sm:right-[-10%] sm:top-[10%] sm:h-[80%] md:right-[-6%] md:top-[-10%] md:h-[112%] md:w-[92%]" />
+            <div className="min-h-auto md:min-h-[100svh] overflow-visible bg-ritual-cream px-6 pt-28 pb-16 md:px-12 md:pt-32 md:pb-6 flex flex-col" />
             {/* LIGHT GLOW */}
             <div className="absolute top-[10%] right-[-16%] h-72 w-72 rounded-full bg-[#F4E7D3]/18 blur-3xl md:right-[8%] md:h-[34rem] md:w-[34rem]" />
 
@@ -126,7 +93,7 @@ export default function Home() {
 
       <section
         id="casa"
-        className="px-6 py-28 border-t border-mineral bg-ritual-cream"
+        className="px-6 pt-14 pb-20 md:py-24 border-t border-mineral bg-ritual-cream"
       >
         <div className="max-w-6xl mx-auto">
           <p className="text-sm tracking-[0.35em] uppercase text-nacar-gold mb-8">
