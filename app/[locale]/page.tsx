@@ -56,17 +56,15 @@ export default function Home() {
           <div className="absolute inset-0 pointer-events-none overflow-hidden">
 
             {/* MAIN IMAGE */}
-            <div className="absolute right-[-18%] top-[6%] h-[88%] w-[108%] opacity-[0.28] sm:right-[-10%] md:right-[-6%] md:top-[-10%] md:h-[112%] md:w-[92%] md:opacity-[0.30]">
+            <div className="absolute left-1/2 top-1/2 h-[72%] w-[135%] -translate-x-1/2 -translate-y-1/2 opacity-[0.24] sm:h-[78%] sm:w-[120%] sm:opacity-[0.26] md:left-auto md:right-[-6%] md:top-[-10%] md:h-[112%] md:w-[92%] md:translate-x-0 md:translate-y-0 md:opacity-[0.30]">
               <img
                 src="/hero-nacar.png"
                 alt="Nácar Atmosphere"
                 className="h-full w-full object-contain blur-[0.2px] brightness-[0.82] contrast-[1.08] saturate-[0.88]"
               />
             </div>
-
             {/* NOISE */}
-            <div className="absolute right-[-18%] top-[6%] h-[88%] w-[108%] opacity-[0.025] mix-blend-multiply bg-[url('/noise.png')] sm:right-[-10%] md:right-[-6%] md:top-[-10%] md:h-[112%] md:w-[92%]" />
-
+            <div className="absolute left-1/2 top-1/2 h-[72%] w-[135%] -translate-x-1/2 -translate-y-1/2 opacity-[0.025] mix-blend-multiply bg-[url('/noise.png')] sm:h-[78%] sm:w-[120%] md:left-auto md:right-[-6%] md:top-[-10%] md:h-[112%] md:w-[92%] md:translate-x-0 md:translate-y-0" />
             {/* LIGHT GLOW */}
             <div className="absolute top-[10%] right-[-16%] h-72 w-72 rounded-full bg-[#F4E7D3]/18 blur-3xl md:right-[8%] md:h-[34rem] md:w-[34rem]" />
 
@@ -145,7 +143,7 @@ export default function Home() {
 
             <div className="mt-12">
               <a
-               href="/house"
+                href="/house"
                 className="group inline-flex items-center gap-4 text-[12px] uppercase tracking-[0.16em] text-nacar-gold transition-all duration-500 hover:text-espresso md:text-[14px]"
               >
                 <span className="relative">
