@@ -1,8 +1,14 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --color-nacar-gold: #B08A52;
+  --color-nacar-ivory: #F3EEE4;
+  --color-espresso: #2B2118;
+  --color-charcoal: #1E1E1C;
+  --color-walnut: #5A4331;
+  --color-mineral: #D9C8AE;
+  --color-smoked-bronze: #8D6A42;
+  --color-ritual-cream: #FAF6EF;
 }
 
 @theme inline {
@@ -12,15 +18,90 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: var(--color-ritual-cream);
+  --foreground: var(--color-espresso);
+}
+
+html {
+  scroll-behavior: auto;
+  background: var(--background);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@utility bg-nacar-gold {
+  background-color: var(--color-nacar-gold);
+}
+
+@utility bg-ritual-cream {
+  background-color: var(--color-ritual-cream);
+}
+
+@utility bg-espresso {
+  background-color: var(--color-espresso);
+}
+
+@utility text-espresso {
+  color: var(--color-espresso);
+}
+
+@utility text-walnut {
+  color: var(--color-walnut);
+}
+
+@utility border-mineral {
+  border-color: var(--color-mineral);
+}
+
+@utility bg-nacar-ivory {
+  background-color: var(--color-nacar-ivory);
+}
+
+@utility bg-charcoal {
+  background-color: var(--color-charcoal);
+}
+
+@utility bg-mineral {
+  background-color: var(--color-mineral);
+}
+
+@utility bg-smoked-bronze {
+  background-color: var(--color-smoked-bronze);
+}
+
+@utility text-nacar-gold {
+  color: var(--color-nacar-gold);
+}
+
+@utility text-ritual-cream {
+  color: var(--color-ritual-cream);
+}
+
+@utility text-mineral {
+  color: var(--color-mineral);
+}
+
+@utility text-smoked-bronze {
+  color: var(--color-smoked-bronze);
+}
+
+@utility text-charcoal {
+  color: var(--color-charcoal);
+}
+
+@utility border-nacar-gold {
+  border-color: var(--color-nacar-gold);
+}
+
+@utility border-smoked-bronze {
+  border-color: var(--color-smoked-bronze);
+}
+
+@utility font-serif {
+  font-family: var(--font-editorial-serif), serif;
 }

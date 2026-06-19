@@ -1,0 +1,157 @@
+{
+  "Home": {
+    "nav": {
+      "house": "La Casa",
+      "collection": "Colección",
+      "ritual": "Ritual",
+      "journal": "Journal",
+      "menu": "Menú",
+      "openMenu": "Abrir menú",
+      "closeMenu": "Cerrar menú"
+    },
+    "hero": {
+      "eyebrow": "RITUAL · ORIGEN · MEMORIA",
+      "title": "Café colombiano convertido en ritual.",
+      "description": "Una experiencia sensorial de origen, diseño y sofisticación silenciosa. Café de especialidad elevado a una nueva forma de pausa, memoria y cultura.",
+      "cta": "Comienza el ritual",
+      "footer": "Origen colombiano · Curaduría lenta · Ritual contemporáneo"
+    },
+    "house": {
+      "eyebrow": "La Casa",
+      "title": "Nácar nace del deseo de convertir el café colombiano en una experiencia más lenta, más sensorial y más humana.",
+      "description": "Una casa donde el café se vive como ritual, memoria y expresión del origen. Cada detalle está pensado para transformar lo cotidiano en una experiencia más lenta y significativa.",
+      "cta": "Entrar en la Casa"
+    },
+    "architecture": {
+      "eyebrow": "Arquitectura de Producto",
+      "title": "Cinco formas de entrar al universo Nácar.",
+      "description": "Cada café dentro de Nácar representa una experiencia distinta, desde el ritual cotidiano hasta la rareza de colección."
+    },
+    "productLines": [
+      {
+        "name": "Ritual Diario",
+        "description": "El café insignia de la casa. Equilibrio, dulzor y sofisticación cotidiana."
+      },
+      {
+        "name": "Origen",
+        "description": "La diversidad del origen colombiano interpretada a través del café."
+      },
+      {
+        "name": "Reserva",
+        "description": "Capas sensoriales que revelan nuevas formas de experimentar el café."
+      },
+      {
+        "name": "Colección Nácar",
+        "description": "Microlotes excepcionales, limitados y cuidadosamente curados."
+      },
+      {
+        "name": "Cosecha Anual",
+        "description": "La gran edición especial de cada año. Tiempo, origen y memoria."
+      }
+    ],
+    "statement": "Arraigado en el origen. Diseñado para el ritual.",
+    "ritual": {
+      "eyebrow": "Ritual Diario",
+      "title": "El café que debería sentirse como volver a casa.",
+      "description": "Un perfil amplio, dulce y acogedor. Notas de chocolate, panela, nuez y caramelo. Diseñado para acompañar la vida diaria sin perder profundidad ni refinamiento.",
+      "primaryCta": "Comenzar ritual",
+      "secondaryCta": "Ver perfil"
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Historias de origen, ritual y sensibilidad contemporánea.",
+      "description": "El journal será el espacio editorial de Nácar: preparación, productores, cosechas, objetos, hospitalidad y sensibilidad alrededor del café.",
+      "cta": "Leer más"
+    },
+    "newsletter": {
+      "eyebrow": "Acceso Privado",
+      "title": "Recibe lanzamientos, cosechas especiales y cartas de la casa.",
+      "placeholder": "Correo electrónico",
+      "button": "Recibir cartas",
+      "invalidEmail": "Revisa tu correo para que podamos enviarte las cartas de la casa.",
+      "success": "Gracias. Pronto recibirás noticias de la casa."
+    }
+  },
+  "housePage": {
+    "hero": {
+      "eyebrow": "La Casa",
+      "title": "No somos solo una casa de café. Somos una forma distinta de habitar el origen.",
+      "description": "Nácar nace de la convicción de que el café colombiano puede ocupar un lugar más profundo en la vida cotidiana. No como una bebida de consumo rápido, sino como un ritual capaz de conectar origen, memoria y sensibilidad contemporánea."
+    },
+    "why": {
+      "title": "La velocidad volvió cotidiano al café. Olvidamos detenernos.",
+      "paragraph1": "Durante décadas el café se convirtió en un producto. Algo que se consume, se termina y se reemplaza.",
+      "paragraph2": "Nácar existe para recuperar otra relación con el origen: más lenta, más consciente y más humana."
+    },
+    "pause": {
+      "eyebrow": "Una pausa necesaria",
+      "text": "Antes de ser una bebida, el café fue encuentro, conversación y tiempo compartido."
+    },
+    "principles": {
+      "origin": {
+        "title": "Origen",
+        "description": "Creemos que cada café debe mantener un vínculo visible con el lugar del que proviene."
+      },
+      "ritual": {
+        "title": "Ritual",
+        "description": "Los objetos, los gestos y el tiempo importan tanto como la bebida."
+      },
+      "curatorship": {
+        "title": "Curaduría",
+        "description": "Menos opciones. Más intención."
+      },
+      "memory": {
+        "title": "Memoria",
+        "description": "Los grandes cafés se recuerdan no solo por su sabor, sino por los momentos que acompañan."
+      }
+    },
+    "house": {
+      "eyebrow": "La Casa",
+      "title": "Nácar es una casa.",
+      "description": "Un espacio donde conviven café, objetos, historias, hospitalidad y cultura contemporánea.",
+      "coffee": "Café",
+      "objects": "Objetos",
+      "journal": "Journal",
+      "harvests": "Cosechas",
+      "gatherings": "Encuentros"
+    },
+    "visitor": {
+      "eyebrow": "Tu Lugar",
+      "title": "Tal vez llegaste por el café. Pero esta casa fue creada para algo más.",
+      "paragraph1": "Para quienes todavía encuentran valor en los pequeños rituales cotidianos.",
+      "paragraph2": "Para quienes prefieren profundidad sobre velocidad.",
+      "paragraph3": "Para quienes entienden que el origen no es una tendencia, sino una forma de mirar el mundo.",
+      "highlight": "No necesitas ser experto en café. Solo estar dispuesto a prestar atención."
+    },
+    "insideHouse": {
+      "eyebrow": "Dentro de la casa",
+      "title": "Más que café. Un universo cuidadosamente curado.",
+      "description": "Cada elemento de Nácar existe para profundizar la relación entre las personas, el origen y el ritual.",
+      "coffee": {
+        "title": "Café",
+        "description": "Desde el ritual cotidiano hasta cosechas excepcionales. Cada café tiene un propósito dentro de la casa."
+      },
+      "journal": {
+        "title": "Journal",
+        "description": "Historias de productores, preparación, hospitalidad, cultura y sensibilidad contemporánea."
+      },
+      "objects": {
+        "title": "Objetos",
+        "description": "Herramientas y piezas seleccionadas para enriquecer la experiencia alrededor del café."
+      },
+      "harvests": {
+        "title": "Cosechas",
+        "description": "Ediciones limitadas que celebran el tiempo, el territorio y la singularidad de cada año."
+      },
+      "gatherings": {
+        "title": "Encuentros",
+        "description": "Conversaciones, experiencias y momentos compartidos alrededor de la casa."
+      }
+    },
+    "closing": {
+      "title": "La casa está abierta.",
+      "description": "Ahora ya sabes quiénes somos. El siguiente paso es descubrir lo que hemos seleccionado para ti.",
+      "cta": "Descubrir la colección"
+    }
+  }
+}

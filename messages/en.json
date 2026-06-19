@@ -1,0 +1,157 @@
+{
+  "Home": {
+    "nav": {
+      "house": "The House",
+      "collection": "Collection",
+      "ritual": "Ritual",
+      "journal": "Journal",
+      "menu": "Menu",
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu"
+    },
+    "hero": {
+      "eyebrow": "RITUAL · ORIGIN · MEMORY",
+      "title": "Colombian coffee transformed into ritual.",
+      "description": "A sensory experience of origin, design, and quiet sophistication. Specialty coffee elevated into a new form of pause, memory, and culture.",
+      "cta": "Begin the Ritual",
+      "footer": "Colombian Origin · Slow Curatorship · Contemporary Ritual"
+    },
+    "house": {
+      "eyebrow": "The House",
+      "title": "Nácar was born from the desire to transform Colombian coffee into a slower, more sensory and more human experience.",
+      "description": "A house where coffee is experienced as ritual, memory and expression of origin. Every detail is designed to transform the everyday into something slower and more meaningful.",
+      "cta": "Step Inside"
+    },
+    "architecture": {
+      "eyebrow": "Product Architecture",
+      "title": "Five ways to enter the universe of Nácar.",
+      "description": "Every coffee within Nácar serves a distinct purpose. They are not simply products — they are different ways of inhabiting the house, from the daily ritual to the rarity of collection."
+    },
+    "productLines": [
+      {
+        "name": "Daily Ritual",
+        "description": "The house’s signature coffee. Balance, sweetness, and everyday sophistication."
+      },
+      {
+        "name": "Origin",
+        "description": "Colombian coffees that express territory, producer, and regional character."
+      },
+      {
+        "name": "Reserve",
+        "description": "Special processes and more complex profiles for exploring new sensory layers."
+      },
+      {
+        "name": "Nácar Collection",
+        "description": "Exceptional, limited, and carefully curated microlots."
+      },
+      {
+        "name": "Annual Harvest",
+        "description": "The great special edition of each year. Time, origin, and memory."
+      }
+    ],
+    "statement": "Rooted in origin. Designed for ritual.",
+    "ritual": {
+      "eyebrow": "Daily Ritual",
+      "title": "The coffee that should feel like coming home.",
+      "description": "A broad, sweet, and welcoming profile. Notes of chocolate, panela, walnut, and caramel. Designed to accompany daily life without losing depth or refinement.",
+      "primaryCta": "Discover Ritual",
+      "secondaryCta": "View Origin"
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Stories of origin, ritual, and contemporary sensibility.",
+      "description": "The journal will be Nácar’s editorial space: brewing, producers, harvests, objects, hospitality, and sensitivity around coffee.",
+      "cta": "Read more"
+    },
+    "newsletter": {
+      "eyebrow": "Private Access",
+      "title": "Receive launches, special harvests, and letters from the house.",
+      "placeholder": "Email address",
+      "button": "Receive letters",
+      "invalidEmail": "Please check your email so we can send you letters from the house.",
+      "success": "Thank you. You’ll soon receive news from the house."
+    }
+  },
+  "housePage": {
+    "hero": {
+      "eyebrow": "The House",
+      "title": "We are not simply a coffee house. We are a different way of inhabiting origin.",
+      "description": "Nácar was born from the belief that Colombian coffee can occupy a deeper place in everyday life. Not as a fast product to consume, but as a ritual that connects origin, memory and contemporary sensibility."
+    },
+    "why": {
+      "title": "Speed made coffee ordinary. We forgot to slow down.",
+      "paragraph1": "For decades coffee became a product. Something consumed, finished and replaced.",
+      "paragraph2": "Nácar exists to recover another relationship with origin: slower, more intentional and more human."
+    },
+    "pause": {
+      "eyebrow": "A necessary pause",
+      "text": "Before becoming a beverage, coffee was encounter, conversation and shared time."
+    },
+    "principles": {
+      "origin": {
+        "title": "Origin",
+        "description": "Every coffee should preserve a visible connection to the place from which it comes."
+      },
+      "ritual": {
+        "title": "Ritual",
+        "description": "Objects, gestures and time matter as much as the beverage itself."
+      },
+      "curatorship": {
+        "title": "Curatorship",
+        "description": "Fewer choices. More intention."
+      },
+      "memory": {
+        "title": "Memory",
+        "description": "Great coffees are remembered not only for flavor, but for the moments they accompany."
+      }
+    },
+    "house": {
+      "eyebrow": "The House",
+      "title": "Nácar is a house.",
+      "description": "A place where coffee, objects, stories, hospitality and contemporary culture coexist.",
+      "coffee": "Coffee",
+      "objects": "Objects",
+      "journal": "Journal",
+      "harvests": "Harvests",
+      "gatherings": "Gatherings"
+    },
+    "visitor": {
+      "eyebrow": "Your Place",
+      "title": "Maybe you came for coffee. But this house was created for something more.",
+      "paragraph1": "For those who still find value in everyday rituals.",
+      "paragraph2": "For those who prefer depth over speed.",
+      "paragraph3": "For those who understand that origin is not a trend, but a way of seeing the world.",
+      "highlight": "You do not need to be a coffee expert. Only willing to pay attention."
+    },
+    "insideHouse": {
+      "eyebrow": "Inside the House",
+      "title": "More than coffee. A carefully curated universe.",
+      "description": "Every element within Nácar exists to deepen the relationship between people, origin and ritual.",
+      "coffee": {
+        "title": "Coffee",
+        "description": "From daily ritual to exceptional harvests. Every coffee serves a purpose within the house."
+      },
+      "journal": {
+        "title": "Journal",
+        "description": "Stories of producers, brewing, hospitality, culture and contemporary sensibility."
+      },
+      "objects": {
+        "title": "Objects",
+        "description": "Tools and pieces selected to enrich the coffee experience."
+      },
+      "harvests": {
+        "title": "Harvests",
+        "description": "Limited editions celebrating time, place and the uniqueness of each year."
+      },
+      "gatherings": {
+        "title": "Gatherings",
+        "description": "Conversations, experiences and shared moments around the house."
+      }
+    },
+    "closing": {
+      "title": "The house is open.",
+      "description": "Now you know who we are. The next step is discovering what we have carefully selected for you.",
+      "cta": "Discover the collection"
+    }
+  }
+}
