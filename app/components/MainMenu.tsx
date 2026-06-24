@@ -16,9 +16,9 @@ export function MainMenu() {
     }, []);
 
     const links = [
-        { href: "/#casa", label: t("nav.house") },
+        { href: "/house", label: t("nav.house") },
         { href: "/#coleccion", label: t("nav.collection") },
-        { href: "/#ritual", label: t("nav.ritual") },
+        { href: "/collection/daily-ritual", label: t("nav.ritual") },
         { href: "/#journal", label: t("nav.journal") },
     ];
 

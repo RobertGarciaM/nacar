@@ -22,7 +22,7 @@ export function LanguageSwitcher() {
         <div className="flex items-center gap-2 text-[11px] tracking-[0.18em] uppercase">
             <button
                 onClick={() => changeLanguage("es")}
-                className={`group relative transition-colors duration-500 ${locale === "es"
+                className={`group relative transition-colors duration-500 cursor-pointer ${locale === "es"
                     ? "text-nacar-gold"
                     : "text-walnut hover:text-nacar-gold"
                     }`}
@@ -39,7 +39,7 @@ export function LanguageSwitcher() {
 
             <button
                 onClick={() => changeLanguage("en")}
-                className={`group relative transition-colors duration-500 ${locale === "en"
+                className={`group relative transition-colors duration-500 cursor-pointer ${locale === "en"
                     ? "text-nacar-gold"
                     : "text-walnut hover:text-nacar-gold"
                     }`}

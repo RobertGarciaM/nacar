@@ -153,5 +153,235 @@
       "description": "Now you know who we are. The next step is discovering what we have carefully selected for you.",
       "cta": "Discover the collection"
     }
+  },
+  "ritualPage": {
+    "hero": {
+      "eyebrow": "The Ritual",
+      "title": "Every great coffee begins before the first sip.",
+      "description": "For Nácar, ritual is not a complex ceremony. It is a way of paying attention: to origin, to time, to gesture and to the moment coffee accompanies."
+    },
+    "meaning": {
+      "title": "Ritual transforms an everyday beverage into an experience with memory.",
+      "paragraph1": "It is not about making the world slower. It is about finding small moments where everyday life can feel more conscious, warmer and more human.",
+      "paragraph2": "Coffee is the starting point. Pause, light, object and attention complete the experience."
+    },
+    "steps": {
+      "eyebrow": "How it begins",
+      "title": "Five gestures to enter the ritual.",
+      "moment": {
+        "title": "Choose the moment",
+        "description": "No coffee improves a hurried morning. The ritual begins when you decide to pause."
+      },
+      "space": {
+        "title": "Prepare the space",
+        "description": "A cup, a table, a few minutes. The essentials are enough when there is intention."
+      },
+      "brew": {
+        "title": "Brew with attention",
+        "description": "The method matters, but presence matters more. Every gesture builds the experience."
+      },
+      "slow": {
+        "title": "Drink slowly",
+        "description": "Flavor is only part of it. Temperature, texture and silence speak too."
+      },
+      "memory": {
+        "title": "Remember",
+        "description": "The most meaningful coffees are remembered not only for their profile, but for the moment they accompanied."
+      }
+    },
+    "daily": {
+      "eyebrow": "Daily Ritual",
+      "title": "The coffee that should feel like coming home.",
+      "description": "Daily Ritual is Nácar’s closest and most everyday expression: a broad, sweet and welcoming coffee, designed to accompany daily life without losing depth or refinement.",
+      "notesLabel": "Notes",
+      "notes": "Chocolate, panela, walnut and caramel.",
+      "momentLabel": "Moment",
+      "moment": "Slow mornings, after-meal conversations and everyday pauses.",
+      "methodLabel": "Method",
+      "method": "Filter, press or manual brewing.",
+      "cta": "Discover Daily Ritual"
+    },
+    "closing": {
+      "title": "Begin with a pause.",
+      "description": "Explore the coffees of the house and find a slower way to relate to Colombian origin.",
+      "cta": "Discover the collection"
+    }
+  },
+  "ritualDiario": {
+    "hero": {
+      "eyebrow": "Daily Ritual",
+      "title": "The coffee that should feel like coming home.",
+      "description": "A broad, serene, and welcoming profile. Notes of chocolate, panela, walnut, and caramel, designed to accompany the daily pause without losing depth.",
+      "primaryCta": "Receive availability",
+      "secondaryCta": "View profile",
+      "visualCaption": "Balance, natural sweetness, and everyday calm."
+    },
+    "manifesto": {
+      "eyebrow": "The idea",
+      "title": "Daily Ritual was created to accompany moments that repeat, but should never feel ordinary.",
+      "description": "It is the coffee for every day, curated with the same attention as a special edition: balanced, warm, consistent, and deeply Colombian."
+    },
+    "profile": {
+      "eyebrow": "Sensory profile",
+      "title": "Sweetness, balance, and quiet depth.",
+      "description": "Daily Ritual is designed to feel familiar from the first cup, yet refined enough to reveal something new with every preparation.",
+      "notes": {
+        "chocolate": "Dark chocolate",
+        "panela": "Panela",
+        "walnut": "Toasted walnut",
+        "caramel": "Soft caramel"
+      },
+      "details": {
+        "sensation": {
+          "label": "Sensation",
+          "value": "Round, sweet, clean, and enveloping."
+        },
+        "acidity": {
+          "label": "Acidity",
+          "value": "Medium-low, gentle, and balanced."
+        },
+        "body": {
+          "label": "Body",
+          "value": "Medium, silky, and persistent."
+        },
+        "finish": {
+          "label": "Finish",
+          "value": "Warm, sweet, and lingering."
+        }
+      }
+    },
+    "origin": {
+      "eyebrow": "Origin and composition",
+      "title": "A Colombian selection designed for consistency.",
+      "description": "Daily Ritual may bring together coffees from carefully selected producers and territories to build a stable profile: familiar, refined, and deeply enjoyable.",
+      "visualCaption": "Colombian origin. House curation.",
+      "status": {
+        "label": "Status",
+        "value": "Selection in curation"
+      },
+      "role": {
+        "label": "Role",
+        "value": "The house signature coffee"
+      }
+    },
+    "preparation": {
+      "eyebrow": "Recommended preparation",
+      "title": "Designed for a clean, sweet, everyday cup.",
+      "description": "Daily Ritual works especially well with filter methods and daily preparations that allow its natural balance to come through.",
+      "methods": {
+        "kalita": "Kalita Wave",
+        "v60": "V60",
+        "chemex": "Chemex",
+        "frenchPress": "French press",
+        "drip": "Drip coffee maker"
+      },
+      "recipe": {
+        "eyebrow": "Suggested recipe",
+        "coffee": {
+          "label": "Coffee",
+          "value": "18 g"
+        },
+        "water": {
+          "label": "Water",
+          "value": "300 g"
+        },
+        "temperature": {
+          "label": "Temperature",
+          "value": "92–94 °C"
+        },
+        "grind": {
+          "label": "Grind",
+          "value": "Medium"
+        },
+        "time": {
+          "label": "Total time",
+          "value": "2:45–3:15"
+        }
+      }
+    },
+    "moments": {
+      "eyebrow": "For when",
+      "title": "A cup to return to center.",
+      "items": {
+        "morning": "For the first cup of the morning.",
+        "pause": "For a pause before beginning.",
+        "conversation": "To accompany a quiet conversation.",
+        "center": "To return to center during the day."
+      }
+    },
+    "house": {
+      "eyebrow": "Within the house",
+      "title": "The starting point of the Nácar universe.",
+      "lines": {
+        "daily": {
+          "title": "Daily Ritual",
+          "text": "The house’s most consistent, broad, and familiar coffee."
+        },
+        "origin": {
+          "title": "Origin",
+          "text": "To explore specific territories and the diversity of Colombian coffee."
+        },
+        "reserve": {
+          "title": "Reserve",
+          "text": "To discover special processes and more complex sensory profiles."
+        },
+        "collection": {
+          "title": "Nácar Collection",
+          "text": "To access exceptional microlots, rarity, and limited editions."
+        }
+      }
+    },
+    "closing": {
+      "eyebrow": "Everyday ritual",
+      "title": "An everyday cup does not have to feel common.",
+      "description": "Daily Ritual exists to remind us that beauty can also live in what we repeat every day.",
+      "cta": "Receive availability"
+    }
+  },
+  "journalRitualDiario": {
+    "navigation": {
+      "back": "Back to the house"
+    },
+    "hero": {
+      "category": "Journal / Ritual",
+      "date": "Foundational essay",
+      "readingTime": "4 min read",
+      "title": "The coffee that should feel like coming home.",
+      "subtitle": "A reflection on everyday ritual, pause, and the beauty of what we repeat every day.",
+      "visualCaption": "The ritual does not begin in the cup. It begins in attention."
+    },
+    "aside": {
+      "eyebrow": "House note",
+      "quote": "The everyday can also hold depth, when lived with intention."
+    },
+    "intro": {
+      "lead": "Some coffees wake you up. Others accompany you. Daily Ritual exists to do both without turning the morning into a complicated ceremony.",
+      "paragraphOne": "Coffee occupies a strange place in daily life. It repeats itself so often that we sometimes stop seeing it. It is there at the beginning of the day, in the middle of a pause, before a conversation, or when we need to return to center.",
+      "paragraphTwo": "But what repeats does not have to become invisible. At Nácar, we believe beauty can also appear in the most everyday gestures, as long as there is intention, quality, and care."
+    },
+    "pullQuote": "An everyday cup does not have to feel common.",
+    "body": {
+      "paragraphOne": "Daily Ritual was born from that idea. It does not seek to be the rarest coffee in the house or the most difficult to explain. Its purpose is different: to become a constant, warm, and reliable presence within the day.",
+      "paragraphTwo": "That is why its profile should be broad, sweet, and welcoming. Chocolate, panela, walnut, and caramel are not only sensory notes; they are a way of building familiarity. A cup that is easy to understand, yet still carries depth.",
+      "paragraphThree": "In a world where many premium experiences feel distant or overly technical, Daily Ritual proposes a quieter kind of sophistication: balance, consistency, and a calm that does not need to impose itself."
+    },
+    "reflections": {
+      "items": {
+        "pause": "Pause as a form of presence.",
+        "repetition": "Repetition as a form of beauty.",
+        "origin": "Origin as the memory of the cup."
+      }
+    },
+    "closing": {
+      "paragraphOne": "Coming home does not always mean returning to a physical place. Sometimes it means finding a familiar gesture, a temperature, an aroma, or a cup that reminds us the day can also begin with calm.",
+      "paragraphTwo": "Daily Ritual is the entry point to Nácar because it holds an essential belief: Colombian coffee can be deep, refined, and emotional without losing closeness."
+    },
+    "productCta": {
+      "eyebrow": "Daily Ritual",
+      "title": "Discover the coffee behind the essay.",
+      "description": "Explore the sensory profile, composition, and recommended preparation of Daily Ritual, the house signature coffee.",
+      "primaryCta": "Discover Daily Ritual",
+      "secondaryCta": "View profile"
+    }
   }
 }

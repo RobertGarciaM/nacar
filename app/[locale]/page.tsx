@@ -1,9 +1,10 @@
 import { ArrowRight } from "lucide-react";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { LanguageSwitcher } from "../components/LanguageSwitcher";
 import Image from "next/image";
 import { MainMenu } from "../components/MainMenu";
 import { NewsletterForm } from "../components/forms/newsletter-form";
+import { Link } from "@/i18n/routing";
 
 type ProductLine = {
   name: string;
@@ -11,6 +12,7 @@ type ProductLine = {
 };
 
 export default function Home() {
+  const locale = useLocale();
   const t = useTranslations("Home");
   const productLines = t.raw("productLines") as ProductLine[];
 
@@ -69,8 +71,8 @@ export default function Home() {
                 {t("hero.description")}
               </p>
 
-              <a
-                href="#coleccion"
+              <Link
+                href="/ritual"
                 className="group inline-flex items-center gap-4 whitespace-nowrap text-[12px] uppercase tracking-[0.16em] text-nacar-gold transition-all duration-500 hover:text-espresso md:text-[14px]"
               >
                 <span className="relative">
@@ -80,7 +82,7 @@ export default function Home() {
                 </span>
 
                 <ArrowRight className="h-3.5 w-3.5 transition-transform duration-500 group-hover:translate-x-1" />
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -189,11 +191,17 @@ export default function Home() {
             </p>
 
             <div className="mt-10 flex gap-4">
-              <a className="bg-espresso text-ritual-cream px-6 py-4 text-sm uppercase tracking-[0.2em] cursor-pointer">
+
+              <a
+                href={`/${locale}/collection/daily-ritual`}
+                className="cursor-pointer bg-espresso px-6 py-4 text-sm uppercase tracking-[0.2em] text-ritual-cream"
+              >
                 {t("ritual.primaryCta")}
               </a>
 
-              <a className="border border-nacar-gold px-6 py-4 text-sm uppercase tracking-[0.2em] cursor-pointer">
+              <a 
+                 href={`/${locale}/collection/daily-ritual#profile`}
+              className="border border-nacar-gold px-6 py-4 text-sm uppercase tracking-[0.2em] cursor-pointer">
                 {t("ritual.secondaryCta")}
               </a>
             </div>
@@ -226,7 +234,7 @@ export default function Home() {
               <p className="leading-relaxed">{t("journal.description")}</p>
 
               <a
-                href="#coleccion"
+               href={`/${locale}/journal/daily-ritual`}
                 className="group inline-flex items-center gap-4 whitespace-nowrap text-[12px] uppercase tracking-[0.16em] text-nacar-gold transition-all duration-500 hover:text-espresso md:text-[14px]"
               >
                 <span className="relative">

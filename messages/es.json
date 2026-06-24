@@ -153,5 +153,235 @@
       "description": "Ahora ya sabes quiénes somos. El siguiente paso es descubrir lo que hemos seleccionado para ti.",
       "cta": "Descubrir la colección"
     }
+  },
+  "ritualPage": {
+    "hero": {
+      "eyebrow": "El Ritual",
+      "title": "Todo gran café empieza antes del primer sorbo.",
+      "description": "Para Nácar, el ritual no es una ceremonia compleja. Es una forma de prestar atención: al origen, al tiempo, al gesto y al momento que el café acompaña."
+    },
+    "meaning": {
+      "title": "El ritual transforma una bebida cotidiana en una experiencia con memoria.",
+      "paragraph1": "No se trata de hacer más lento el mundo. Se trata de encontrar pequeños momentos donde la vida cotidiana pueda sentirse más consciente, más cálida y más humana.",
+      "paragraph2": "El café es el punto de partida. La pausa, la luz, el objeto y la atención completan la experiencia."
+    },
+    "steps": {
+      "eyebrow": "Cómo comienza",
+      "title": "Cinco gestos para entrar en el ritual.",
+      "moment": {
+        "title": "Elegir el momento",
+        "description": "Ningún café mejora una mañana apresurada. El ritual empieza cuando decides detenerte."
+      },
+      "space": {
+        "title": "Preparar el espacio",
+        "description": "Una taza, una mesa, unos minutos. Lo esencial basta cuando existe intención."
+      },
+      "brew": {
+        "title": "Preparar con atención",
+        "description": "El método importa, pero la presencia importa más. Cada gesto construye la experiencia."
+      },
+      "slow": {
+        "title": "Beber lentamente",
+        "description": "El sabor es solo una parte. La temperatura, la textura y el silencio también hablan."
+      },
+      "memory": {
+        "title": "Recordar",
+        "description": "Los cafés más importantes no solo se recuerdan por su perfil, sino por el momento que acompañaron."
+      }
+    },
+    "daily": {
+      "eyebrow": "Ritual Diario",
+      "title": "El café que debería sentirse como volver a casa.",
+      "description": "Ritual Diario es la expresión más cercana y cotidiana de Nácar: un café amplio, dulce y acogedor, diseñado para acompañar la vida diaria sin perder profundidad ni refinamiento.",
+      "notesLabel": "Notas",
+      "notes": "Chocolate, panela, nuez y caramelo.",
+      "momentLabel": "Momento",
+      "moment": "Mañanas lentas, sobremesas y pausas cotidianas.",
+      "methodLabel": "Método",
+      "method": "Filtro, prensa o preparación manual.",
+      "cta": "Descubrir Ritual Diario"
+    },
+    "closing": {
+      "title": "Comienza por una pausa.",
+      "description": "Explora los cafés de la casa y encuentra una forma más lenta de relacionarte con el origen colombiano.",
+      "cta": "Descubrir la colección"
+    }
+  },
+  "ritualDiario": {
+    "hero": {
+      "eyebrow": "Ritual diario",
+      "title": "El café que debería sentirse como volver a casa.",
+      "description": "Un perfil amplio, sereno y acogedor. Notas de chocolate, panela, nuez y caramelo, diseñado para acompañar la pausa cotidiana sin perder profundidad.",
+      "primaryCta": "Recibir disponibilidad",
+      "secondaryCta": "Ver perfil",
+      "visualCaption": "Equilibrio, dulzor natural y calma cotidiana."
+    },
+    "manifesto": {
+      "eyebrow": "La idea",
+      "title": "Ritual Diario nace para acompañar los momentos que se repiten, pero no deberían sentirse ordinarios.",
+      "description": "Es el café de todos los días, curado con la misma atención que una edición especial: equilibrado, cálido, consistente y profundamente colombiano."
+    },
+    "profile": {
+      "eyebrow": "Perfil sensorial",
+      "title": "Dulzor, equilibrio y profundidad silenciosa.",
+      "description": "Ritual Diario está pensado para sentirse familiar desde la primera taza, pero suficientemente refinado para revelar algo nuevo con cada preparación.",
+      "notes": {
+        "chocolate": "Chocolate oscuro",
+        "panela": "Panela",
+        "walnut": "Nuez tostada",
+        "caramel": "Caramelo suave"
+      },
+      "details": {
+        "sensation": {
+          "label": "Sensación",
+          "value": "Redondo, dulce, limpio y envolvente."
+        },
+        "acidity": {
+          "label": "Acidez",
+          "value": "Media-baja, amable y equilibrada."
+        },
+        "body": {
+          "label": "Cuerpo",
+          "value": "Medio, sedoso y persistente."
+        },
+        "finish": {
+          "label": "Final",
+          "value": "Cálido, dulce y prolongado."
+        }
+      }
+    },
+    "origin": {
+      "eyebrow": "Origen y composición",
+      "title": "Una selección colombiana pensada para consistencia.",
+      "description": "Ritual Diario puede reunir cafés de productores y territorios cuidadosamente seleccionados para construir un perfil estable: familiar, refinado y profundamente disfrutable.",
+      "visualCaption": "Origen colombiano. Curaduría de casa.",
+      "status": {
+        "label": "Estado",
+        "value": "Selección en curaduría"
+      },
+      "role": {
+        "label": "Función",
+        "value": "Café insignia de la casa"
+      }
+    },
+    "preparation": {
+      "eyebrow": "Preparación recomendada",
+      "title": "Pensado para una taza limpia, dulce y cotidiana.",
+      "description": "Ritual Diario funciona especialmente bien en métodos de filtrado y preparaciones de uso diario que permitan apreciar su equilibrio natural.",
+      "methods": {
+        "kalita": "Kalita Wave",
+        "v60": "V60",
+        "chemex": "Chemex",
+        "frenchPress": "Prensa francesa",
+        "drip": "Cafetera de goteo"
+      },
+      "recipe": {
+        "eyebrow": "Receta sugerida",
+        "coffee": {
+          "label": "Café",
+          "value": "18 g"
+        },
+        "water": {
+          "label": "Agua",
+          "value": "300 g"
+        },
+        "temperature": {
+          "label": "Temperatura",
+          "value": "92–94 °C"
+        },
+        "grind": {
+          "label": "Molienda",
+          "value": "Media"
+        },
+        "time": {
+          "label": "Tiempo total",
+          "value": "2:45–3:15"
+        }
+      }
+    },
+    "moments": {
+      "eyebrow": "Para cuándo",
+      "title": "Una taza para volver al centro.",
+      "items": {
+        "morning": "Para la primera taza de la mañana.",
+        "pause": "Para una pausa antes de empezar.",
+        "conversation": "Para acompañar una conversación tranquila.",
+        "center": "Para volver al centro durante el día."
+      }
+    },
+    "house": {
+      "eyebrow": "Dentro de la casa",
+      "title": "El punto de partida del universo Nácar.",
+      "lines": {
+        "daily": {
+          "title": "Ritual Diario",
+          "text": "El café más constante, amplio y cercano de la casa."
+        },
+        "origin": {
+          "title": "Origen",
+          "text": "Para explorar territorios específicos y la diversidad cafetera colombiana."
+        },
+        "reserve": {
+          "title": "Reserva",
+          "text": "Para descubrir procesos especiales y perfiles sensoriales más complejos."
+        },
+        "collection": {
+          "title": "Colección Nácar",
+          "text": "Para acceder a microlotes excepcionales, rareza y ediciones limitadas."
+        }
+      }
+    },
+    "closing": {
+      "eyebrow": "Ritual cotidiano",
+      "title": "Una taza cotidiana no tiene por qué sentirse común.",
+      "description": "Ritual Diario existe para recordarnos que la belleza también puede estar en aquello que repetimos todos los días.",
+      "cta": "Recibir disponibilidad"
+    }
+  },
+  "journalRitualDiario": {
+    "navigation": {
+      "back": "Volver a la casa"
+    },
+    "hero": {
+      "category": "Journal / Ritual",
+      "date": "Ensayo fundacional",
+      "readingTime": "4 min de lectura",
+      "title": "El café que debería sentirse como volver a casa.",
+      "subtitle": "Una reflexión sobre el ritual cotidiano, la pausa y la belleza de aquello que repetimos todos los días.",
+      "visualCaption": "El ritual no comienza en la taza. Comienza en la atención."
+    },
+    "aside": {
+      "eyebrow": "Nota de la casa",
+      "quote": "Lo cotidiano también puede tener profundidad, si se vive con intención."
+    },
+    "intro": {
+      "lead": "Hay cafés que despiertan. Otros acompañan. Ritual Diario existe para hacer ambas cosas sin convertir la mañana en una ceremonia compleja.",
+      "paragraphOne": "El café ocupa un lugar extraño en la vida diaria. Se repite tanto que a veces dejamos de mirarlo. Está ahí al comenzar el día, en medio de una pausa, antes de una conversación o cuando necesitamos volver al centro.",
+      "paragraphTwo": "Pero aquello que se repite no tiene por qué volverse invisible. En Nácar creemos que la belleza también puede aparecer en los gestos más cotidianos, siempre que exista intención, calidad y cuidado."
+    },
+    "pullQuote": "Una taza cotidiana no tiene por qué sentirse común.",
+    "body": {
+      "paragraphOne": "Ritual Diario nace desde esa idea. No busca ser el café más raro de la casa ni el más difícil de explicar. Su propósito es otro: convertirse en una presencia constante, cálida y confiable dentro del día.",
+      "paragraphTwo": "Por eso su perfil debe ser amplio, dulce y acogedor. Chocolate, panela, nuez y caramelo no son solo notas sensoriales; son una forma de construir familiaridad. Una taza que se entiende sin esfuerzo, pero que conserva profundidad.",
+      "paragraphThree": "En un mundo donde muchas experiencias premium se sienten distantes o excesivamente técnicas, Ritual Diario propone una sofisticación más silenciosa: equilibrio, consistencia y una calma que no necesita imponerse."
+    },
+    "reflections": {
+      "items": {
+        "pause": "La pausa como forma de presencia.",
+        "repetition": "La repetición como una forma de belleza.",
+        "origin": "El origen como memoria de la taza."
+      }
+    },
+    "closing": {
+      "paragraphOne": "Volver a casa no siempre significa regresar a un lugar físico. A veces significa encontrar un gesto familiar, una temperatura, un aroma o una taza que nos recuerda que el día también puede empezar con calma.",
+      "paragraphTwo": "Ritual Diario es la puerta de entrada a Nácar porque resume una convicción esencial: el café colombiano puede ser profundo, refinado y emocional sin dejar de ser cercano."
+    },
+    "productCta": {
+      "eyebrow": "Ritual Diario",
+      "title": "Conoce el café detrás del ensayo.",
+      "description": "Explora el perfil sensorial, la composición y la preparación recomendada de Ritual Diario, el café insignia de la casa.",
+      "primaryCta": "Conocer Ritual Diario",
+      "secondaryCta": "Ver perfil"
+    }
   }
 }
